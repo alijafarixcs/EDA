@@ -14,7 +14,7 @@ After going through this code-along you will have an idea about
 
 ## Task
 
-Please work in pairs through the [notebook](https://github.com/neuefische/da-youtube_EDA/blob/main/youtube_EDA.ipynb) and answer the tasks which are included there.
+Please work in pairs through the [notebook](https://github.com/alijafarixcs/da-youtube_EDA/blob/main/youtube_EDA.ipynb) and answer the tasks which are included there.
 
 ## Setup
 
