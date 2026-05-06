@@ -24,8 +24,9 @@ For the Data Analytics Course:
 For the Data Science Course:
 - Create a new environment:
 ```bash
-python -m venv .venv
-source .venv/bin/activate 
-pip install --upgrade pip
+pyenv local 3.11
+py -m venv .venv
+source .venv/scripts/activate 
+py -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
