@@ -25,7 +25,7 @@ For the Data Science Course:
 - Create a new environment:
 ```bash
 pyenv local 3.11
-py -m venv .venv
+py -3.11 -m venv .venv
 source .venv/scripts/activate
 py -m pip install --upgrade pip setuptools wheel
 py -m pip install --upgrade pip
