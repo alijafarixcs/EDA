@@ -26,7 +26,8 @@ For the Data Science Course:
 ```bash
 pyenv local 3.11
 py -m venv .venv
-source .venv/scripts/activate 
+source .venv/scripts/activate
+py -m pip install --upgrade pip setuptools wheel
 py -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
